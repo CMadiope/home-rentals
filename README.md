@@ -1,3 +1,3 @@
 # home-rentals
 
-live: home-rentals-five.vercel.app
+live: [home-rentals-asq30w3pr-cmadiope.vercel.app]
