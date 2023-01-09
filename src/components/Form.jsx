@@ -2,7 +2,7 @@ import React from "react";
 
 const Form = () => {
   return (
-    <div>
+    <div className="shadow-lg px-12 pb-8 rounded-md">
       <div className='flex justify-center py-8'>
         <h1 className='text-xl md:text-3xl font-poppins text-orange-500 font-semibold'>
           Add a new Property
