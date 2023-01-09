@@ -4,7 +4,7 @@ import little from '../assets/img/little.png'
 
 const Landlord = () => {
   return (
-    <div id='landlord' className='p-12 bg-white'>
+    <div id='landlord' className='p-4 md:p-12 bg-white'>
       <h1 className='text-lg md:text-3xl font-bold font-inter'>
         minimum living cost takes care of everything
       </h1>

@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='w-full min-h-[50px] flex justify-between items-center absolute z-10 text-white md:p-12 '>
+    <div className='w-full min-h-[50px] flex justify-between items-center absolute z-10 text-white md:p-12 p-4'>
       <div>
         <img src={logo} alt='/' />
       </div>
@@ -50,6 +50,7 @@ const Navbar = () => {
           <li className='text-2xl py-8'>
             <a href='#tenants'>Tenants</a>
           </li>
+
           <li className='text-2xl py-8'>
             <a href='#contact'>Contact Us</a>
           </li>
